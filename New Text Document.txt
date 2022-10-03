@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<center>B?ng Thông Tin Cá Nhân</center>
+<table border="1">
+    <tr>
+        <th>h? tên</th>
+        <th> gi?i tính</th>
+        <th>Nam sinh</th>
+        <th>Chuyên ngành</th>
+        <th>Khóa</th>
+        <th>s? di?n tho?i </th>
+        <th>Email</th>
+        <th>?nh</th>
+    </tr>
+    <tr>
+        <td>Minh Ti?n</td>
+        <td>Nam</td>
+        <td>2000</td>
+        <td>H? th?ng thông tin</td>
+        <td>63</td>
+        <td>0813287717</td>
+        <td>thanhlong12@gmail.com</td>
+        <td><img src="anh1.jpg" alt="anh" height="300px" width="400px"></td>
+    </tr>
+</table>
+<h1>S? thích cá nhân</h1>
+<ol>
+    <li>dá bóng</li>
+    <li>bóng dá</li>
+    <li>h?c bài </li>
+    <li>d?y thuy?n </li>
+    <li>d?y g?y </li>
+</ol>
+
+    
+</body>
+</html>
